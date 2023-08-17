@@ -1,5 +1,5 @@
   # React-mini-projects
-This repository contains the course source code of my react mini projects.
+This repository contains the source code of my react mini projects.
 
   **How to use**
   
